@@ -7,7 +7,7 @@
     "test": "tests"
   },
   "scripts": {
-    "api-test-production": "newman run tests/restapi.postman_collection.json"
+    "api-test-production": "newman run tests/restapi.postman_collection.json --reporters junit --reporter-junit-export newman.xml"
   },
   "author": "William Su",
   "license": "ISC",
