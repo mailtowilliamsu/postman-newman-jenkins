@@ -1,0 +1,153 @@
+{
+  "id": "7211fc60-833a-2341-10fe-1e4e03ff9dee",
+  "name": "Postman Globals",
+  "values": [
+    {
+      "key": "echo_digest_realm",
+      "value": "Users",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "echo_digest_nonce",
+      "value": "UqFH6r1NCBQLc85pWHM4UrwKUJ3jrvUP",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "API Key",
+      "value": "William",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "2Legged_access_token",
+      "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImNlcnQwMDEifQ.eyJjbGllbnRfaWQiOiJzd2lmdCIsImV4cCI6MTQ4NDY4NzMyOSwic2NvcGUiOlsiU0tJTl9XT1VORCJdfQ.dgWkLl0keJTjt-5Q9A7KkRc6OS1qpcm3_7Qcj1i0dyrl_ozDacijjJoS37GulYKF8VIKF86BymZo1ArEWQjBt3_bS17yOXqyYf45b9OyGU6xWfdkVLCx56A1CkSn12A5z1oaVuRxS1-FK8q-fXETGhJEDvPYaNSu8-4b_UdKwZQfNlRWF08uVee-Ocu7Gyhozlh3-DrI02uZMBFNupadHSqwckebhbe12gMlzX0j1OdgsolJY_7HKbS_WcCeThRniAY2fWawrlTdwy17bB2SvWZeGu9Dtslxb8il7KP6N4dJWTm7BzWNp7eG6GE52yQCiQ3iyn_5xJqI8gpJxIWi-Q",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "url ",
+      "value": "http://apiqa.pointclickcare.com/api/private/preview1/orgs/",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "refresh_token",
+      "value": "MT0kdZIkRLsHQyqUg5kuONEqtsMqLq6rtYl88sjLV0",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "access_code_qtfte",
+      "value": "xyBFvoF-9Au0VWc8glCmvNUPLd7EbFUcQkM_-Ji8",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "org",
+      "value": "agrdt",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "username",
+      "value": "poc1",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "password",
+      "value": "1234",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "allowInteraction",
+      "value": "true",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "reauth",
+      "value": "false",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "resumePath",
+      "value": "/as/zV5p9/resume/as/authorization.ping",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "formAction",
+      "value": "https://qaloginus.pointclickcare.com/skinwound/ssoLogin.xhtml",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "clurl",
+      "value": "/skinwound/ssoLogin.xhtml",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "authCode",
+      "value": "ZVpRSwmtUTblxf3PEPL3Looie3Lb2mDJy-gzaaLd",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "tokenType",
+      "value": "Bearer",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "refreshToken",
+      "value": "y32HaAYCmRBMEq5xWi6FOGtz7k7gqIqQWFzx09Yyfr",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "accessToken",
+      "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImNlcnQwMDEifQ.eyJ1c2VybmFtZSI6IjEwMDAwMDA0LnBvYzEiLCJleHAiOjE0ODY2ODIzNzMsInNjb3BlIjpbIlNLSU5fV09VTkQiXSwiY2xpZW50X2lkIjoic3dpZnQifQ.VDWA6Thu9jgMYCwCIiySNxu2XYIrn_I4nyw8oqDrbvvX1A_VyCywR9QcSngTz5Cd0AJmmghJ9LYsP8mu2F0UDw0rIlBkR34U-syvukm8by9SRuq7IPtXW82fdDQmu38T1l6z0sBYEKbRkwO0GiKLy6cseB9zKqeC5krGX_jWkC9CdGzWAF6QDPlHgNFc_vEYP2gMUBAQ846jvJfAbSKg40cls0w2Tnl_kxhZXKSj7jk_I-mV5sAr4oM8l3q-8wLoK4pdhLmdkhdTA9Eef1t7vYfWxb8bgkPp-i42f_CG2dq4RpJQGQRI9k4Opea6RjTjtJKeSfMVKbKn-UR8z_K4pQ",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "access_token_qtfte",
+      "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImNlcnQwMDEifQ.eyJ1c2VybmFtZSI6IjEwMDAwMDI2LlBDQy1hdXRvbWF0aW9uIiwiZXhwIjoxNDk0MzY1NzU3LCJzY29wZSI6WyJTS0lOX1dPVU5EIl0sImNsaWVudF9pZCI6InN3aWZ0In0.LATsAtTV5XoEYxj8vxtLz2JC8GwpL_hCA0oa-rt7VGeFRPWElVEZyfQoUT4TDY8o2OX-MFBj-kAsBnMbaD9kHTjzQiYHQlG-7AQeaQTNpbDy8fQ6UWYrkfpSfwI5zX4D5quM8sD3owNpcJBGDLVIDeMCxOrkwhX0CT2q_iEb2GPepZQNK-fXVmqRM58dYL-cWfjOeQkt5Zp959WBS-b5662Ap5wZiQpmf7FFq6inJ4srXhY49Ggy8sEYDZMlZfBxya28ojeZZe9KZxVZ7HzZoWP5MmrryJKzjmATHvDwDZI1qX5dM0wfBJt8jxmNJe4rzPQrn_7txiS8Pecs-nlJXA",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "access_code",
+      "value": "uecmALt2C81AXilRBFkQ-cckOEAJsxaf1TxkymAY",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "access_token",
+      "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImNlcnQwMDEifQ.eyJ1c2VybmFtZSI6IjEwMDAwMDA0LlBDQy1zdW0iLCJleHAiOjE0OTQ1MjI2MTgsInNjb3BlIjpbIlNLSU5fV09VTkQiXSwiY2xpZW50X2lkIjoic3dpZnQifQ.Ozp8J6i9mnvEVl-1AtPbkNZjw3OpCuc7amS_LEjDX4c9kN9DUTom512fhAjpidWDmItLaj4lNsKCS8KoMSS0GxqsEoUW8iVdWT8DVcPH-A2TIxOS--ALXiR3IxdtR9Lr4nx-7ULn-0soHXgOigJHD_vbtVu7jOhS9xnuuVzHXyTgPnyX2Kj_YXZWNK1SzbxivBWnBcLBYwNrSo3SYyF2QpO4XTzWdKydIGJ6JKApMgDHjUXbELWE36SkARXfWAEaXcCZ5oaRzaE4FejuQdpO4LeEDl_E4n3IZg9uLrKN2OYlM7nT8x-UyEEWsngsvP63EO3I-bO4BSp5gRbOhMYgHw",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "timestampHeader",
+      "value": "",
+      "enabled": true,
+      "type": "text"
+    },
+    {
+      "key": "userId",
+      "value": "userId",
+      "enabled": true,
+      "type": "text"
+    }
+  ],
+  "_postman_variable_scope": "globals",
+  "_postman_exported_at": "2017-10-29T23:32:29.881Z",
+  "_postman_exported_using": "Postman/5.3.2"
+}

@@ -33,19 +33,16 @@
 				"header": [],
 				"body": {},
 				"url": {
-					"raw": "https://jsonplaceholder.typicode.com/posts?userId=1",
-					"protocol": "https",
+					"raw": "{{url}}/posts?{{userId}}=1",
 					"host": [
-						"jsonplaceholder",
-						"typicode",
-						"com"
+						"{{url}}"
 					],
 					"path": [
 						"posts"
 					],
 					"query": [
 						{
-							"key": "userId",
+							"key": "{{userId}}",
 							"value": "1",
 							"equals": true
 						}
@@ -80,7 +77,7 @@
 				"method": "DELETE",
 				"header": [],
 				"body": {},
-				"url": "https://jsonplaceholder.typicode.com/posts/1",
+				"url": "{{url}}/posts/1",
 				"description": ""
 			},
 			"response": []
